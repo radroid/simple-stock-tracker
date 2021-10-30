@@ -1,6 +1,6 @@
 # Simple Stock Tracker
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
 > Track and recommend one of the three chosen stocks based on price in the past 30 days and last two weeks of news.
 
